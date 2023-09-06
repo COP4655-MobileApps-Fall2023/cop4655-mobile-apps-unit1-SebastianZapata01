@@ -11,7 +11,7 @@
 \
 Submitted by: Sebastian Zapata\
 \
-HW 1 is an app that introduces ... [TODO] \
+HW 1 is an app that introduces that shows facts and bits about who I am and what I do\
 \
 Time spent: 12 hours spent in total\
 \
