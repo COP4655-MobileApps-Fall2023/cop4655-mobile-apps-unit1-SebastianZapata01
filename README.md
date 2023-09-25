@@ -21,7 +21,7 @@ The following **required** functionality is completed:\
 \
 - [x] Users are able to see a customized app icon and launch screen\
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints\
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text\
+  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text\
 - [x] Users are able to see at least 3 context items\
 - [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)\
  \
@@ -34,11 +34,13 @@ The following **additional** features are implemented:\
 None\
 \
 ## Video Walkthrough\
-\
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. \
-\
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .\
-\
+<div>
+    <a href="https://www.loom.com/share/f16ef03cc39c4c41a853cd9e6d76ed9c">
+    </a>
+    <a href="https://www.loom.com/share/f16ef03cc39c4c41a853cd9e6d76ed9c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f16ef03cc39c4c41a853cd9e6d76ed9c-with-play.gif">
+    </a>
+  </div>
 ## Notes\
 \
 This app was incredibly frustrating to do. Having multiple issues with AutoLayout and then the app completely not working anymore, no matter how I tried to fix it. The device I am using this on is too old and is the only one available.\
